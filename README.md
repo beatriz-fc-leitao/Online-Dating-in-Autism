@@ -13,6 +13,8 @@ Due to impairments in social communication and interaction, autistic people have
 This study investigates how positive/negative wording, an explicit autism diagnosis, and high/low stigma affect 187 females’ perceived attractiveness (measured in 3 ways: social attractiveness, physical attractiveness, and task attractiveness), trustworthiness and desirability to date of autistic males’ online dating profiles.
 
 ## 💡 FINDINGS
-Positive wording increased social and task attractiveness and desirability to date, while a label of autism enhanced physical and task attractiveness. A diagnostic label increased social attractiveness for low-stigma participants and decreased social attractiveness for high-stigma respondents. 
+➕ Positive wording increased social and task attractiveness and desirability to date
+
+🏷 A diagnostic label of autism enhanced physical and task attractiveness. A diagnostic label also increased social attractiveness for low-stigma participants and decreased social attractiveness for high-stigma respondents. 
 
 This information can help autistic males construct their online dating profiles in a way that leverages their strengths and therefore allows for them to be perceived as more attractive. The main recommendations that can be made are to include a note mentioning a diagnosis of ASD and to phrase content positively (eg. include "I love a quiet evening at home" instead of "I don't like going out in the evenings"). This could provide crucial social support for the widely reported challenge of self-representation in online dating profiles reported by autistic males.
